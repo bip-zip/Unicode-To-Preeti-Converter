@@ -4,11 +4,11 @@ This project provides a simple HTML and JavaScript code that allows you to conve
 
 ## How to Use
 
-1. Open the `index.html` file, there are two formfields (text-area) and two buttons (Copy and Clear).
+1. In the `index.html` file, there are two formfields (text-area) and two buttons (Copy and Clear).
 
-2. There are two javascript files () inside js folder. 
+2. There are two javascript files (nepali-typing.js & nepali-unicode.js) inside js folder. 
 
-5. The converted text will be displayed below the input box.
+3. The nepconverter() function converts the typed roman alphabets to nepali unicode whereas the convert_to_Preeti() function converts the content into preeti format.
 
 ## Features
 
@@ -16,9 +16,6 @@ This project provides a simple HTML and JavaScript code that allows you to conve
 
 - **Unicode to Preeti Font Conversion:** Convert Unicode Nepali text to the Preeti font, a commonly used Nepali font for various applications.
 
-- **Easy to Use:** The web-based interface allows for quick and straightforward conversion without the need for any installations.
-
-- **Open Source:** The source code is open and can be customized or integrated into other projects as needed.
 
 ## About Nepali Language and Fonts
 
